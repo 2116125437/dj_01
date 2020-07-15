@@ -20,6 +20,11 @@ public class User {
         System.out.println("aa1");
     }
 
+    public void bid(){
+        System.out.println("bb");
+        System.out.println("bb1");
+    }
+
     /**
      * 主键id
      */
