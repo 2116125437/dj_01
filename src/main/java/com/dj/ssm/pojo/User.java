@@ -15,6 +15,11 @@ import java.util.Date;
 @TableName("user_mp") // 实体类对应数据库表名
 public class User {
 
+    public void bid(){
+        System.out.println("bb");
+        System.out.println("bb1");
+    }
+    
     /**
      * 主键id
      */
