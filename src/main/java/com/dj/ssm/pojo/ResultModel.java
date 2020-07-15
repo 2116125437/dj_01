@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * JSON 统一返回类
  * git
- * hello
+ * hello hello2
  * @param <T>
  */
 @Data
