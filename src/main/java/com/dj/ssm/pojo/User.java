@@ -16,6 +16,7 @@ import java.util.Date;
 public class User {
 
     public void aVoid(){
+        System.out.println("qq");
         System.out.println("aa");
         System.out.println("aa1");
     }
