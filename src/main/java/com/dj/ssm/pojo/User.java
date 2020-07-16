@@ -15,7 +15,8 @@ import java.util.Date;
 @TableName("user_mp") // 实体类对应数据库表名
 public class User {
 
-    public void aVoid(){
+    public void aVoid(){qqq
+        System.out.println("qqq");
         System.out.println("aa");
         System.out.println("aa1");
     }
